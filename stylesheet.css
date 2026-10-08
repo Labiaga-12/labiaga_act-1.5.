@@ -1,0 +1,19 @@
+h1{
+   color: rgb(200, 170, 224);
+    background-color: rgb(19, 33, 58);
+    text-align: center;
+}
+
+h2{
+    color: darkslateblue; 
+    text-align: center; 
+}
+
+h3{
+    color: darkslateblue
+}
+
+p{
+    color: darkslateblue;
+    text-align: center;
+}
